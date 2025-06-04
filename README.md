@@ -1,3 +1,10 @@
+# Wave Rover Frontend for mission planner and control GUI web app
+Displays control and sensor data to track where the robot is in the world and allow user to issue remote commands to the rover robot. 
+
+Hopefully this should use CelsiumJS for visualisations.
+
+
+-----------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
